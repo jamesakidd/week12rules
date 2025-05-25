@@ -1,5 +1,7 @@
 # Week 12 Server Rules
 
+This is a list of the most important rules, but is incomplete. Please see full rules, as well as many helpful guides on our [Discord](https://discord.gg/week12). 
+
 1. ### **No Raiding**: 
    - This server is PvE with PvP zones and always **NO RAID**.
    - Stealing items from players, inventories, bases, vehicles or body bags is strictly prohibited, even if they appear abandoned.
@@ -48,7 +50,7 @@
        - Report any item labeled "Admin" to the staff immediately.
 
 
-   
+
 
    ​		
 
