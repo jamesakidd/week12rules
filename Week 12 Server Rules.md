@@ -41,8 +41,11 @@
    - Do not use the WEEK 12 Discord or servers to promote or recruit for other servers. Violators will be permanently removed.
 ****
 10. ### **Admin Items and Roles:**
-   - Using Admin-only items, clothing, or impersonating an Admin is forbidden and will result in a ban.
-   - Report any item labeled "Admin" to the staff immediately.
+
+       - Using Admin-only items, clothing, or impersonating an Admin is forbidden and will result in a ban.
+
+       - Report any item labeled "Admin" to the staff immediately.
+
 
    
 
