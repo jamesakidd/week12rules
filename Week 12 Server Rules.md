@@ -7,6 +7,7 @@
 2. ###  **PvP Only in Designated Zones:**
    - PvP is authorized only within designated zones marked on the map (Red Circles).
    - Example: 
+     
      <img src="https://raw.githubusercontent.com/jamesakidd/week12rules/refs/heads/master/pvpexample.jpg" alt="PVP on the in game map" style="zoom:67%;" />   
 ****
 3. ### **No Toxicity:**
